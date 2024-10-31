@@ -1,3 +1,6 @@
+## 2.3.3
+* Removes references to Flutter v1 android embedding classes.
+
 ## 2.3.2
 *Fixed - fix url error with query #146
 
